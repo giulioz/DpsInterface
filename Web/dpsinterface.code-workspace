@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "dps_interface"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ios": "c",
+			"istream": "c",
+			"tuple": "c"
+		}
+	}
+}
