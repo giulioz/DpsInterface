@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "node build/index.js",
-    "build": "webpack --progress",
+    "build": "webpack --progress;cp frontend_src/index.html build/static",
     "binary": "pkg . --out-path pak"
   },
   "author": "",
